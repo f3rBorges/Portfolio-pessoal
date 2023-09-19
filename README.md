@@ -9,7 +9,8 @@
 [Autores](#autores)  
  
 # Portfolio-pessoal
-![capa do projeto]()
+![capa do projeto](capa.png)
+
 ## Descrição 
 É um modelo de página de capa simples construído com o framework Bootstrap. Ele fornece uma estrutura de página inicial que pode ser personalizada facilmente para criar páginas. A partir das aulas de Programação Web aprendemos a documentar este projeto com o README para o GitHub, para aprendermos melhor nossa escrita na programação e, entendermos melhor aquilo que estamos fazendo e usando.
 ## Introdução
